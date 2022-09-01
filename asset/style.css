@@ -1,6 +1,53 @@
 img {
   border: 35px 35px 35px 35px;
   height: 200px;
-  width: 150px;
   border-radius: 40px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: rgb(139, 139, 204);
+}
+h1 {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 50px;
+}
+nav{
+
+   
+    
+    
+}
+.titles {
+    display: flex;
+    font-size: 20px;
+     list-style-type: none;
+     flex-wrap: wrap;
+    gap: 5px;
+}    
+.content{
+    display: flex;
+    margin: 40px;
+    flex-direction: row;
+}
+
+h2{
+    margin: 50px;
+    
+    
+
+}
+li{
+    
+    
+}
+li :hover{
+    display: flex;
+    color: aliceblue;
+    
+   
+    
 }
