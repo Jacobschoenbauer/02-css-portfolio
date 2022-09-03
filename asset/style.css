@@ -28,17 +28,15 @@ h1 {
   color: white;
   font-size: 50px;
 }
-.me{
+.me {
   font-size: 30px;
-  font-family:'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   color: brown;
-
 }
 .art {
   height: 230px;
   width: 230px;
   box-shadow: 10px 10px 8px #888888;
-
 }
 
 .titles {
@@ -53,8 +51,6 @@ h1 {
   margin: 40px;
   flex-direction: column;
 }
-
-
 
 li :hover {
   display: flex;
@@ -86,7 +82,7 @@ article {
 .mess {
   display: flex;
   flex-direction: column;
-  font-family:'Times New Roman', Times, serif ;
+  font-family: "Times New Roman", Times, serif;
   font-size: 30px;
   align-items: center;
   justify-content: space-between;
@@ -97,9 +93,8 @@ article {
   flex-wrap: wrap;
   padding: 10px;
   justify-content: space-evenly;
-  
 }
-.project{
+.project {
   margin: 40px;
 }
 
@@ -114,26 +109,31 @@ article.jobs .project {
   background-color: aqua;
 }
 
-footer{
+footer {
   display: flex;
   justify-content: center;
   font-size: larger;
   color: rgb(79, 29, 170);
 }
 
-
-
-@media screen and (max-width: 700px){
-  .header1{background-color: rgb(94, 7, 89);}
-  h2{
+@media screen and (max-width: 900px) {
+  .header1 {
+    background-color: rgb(94, 7, 89);
+  }
+  h2 {
     display: flex;
     align-content: center;
     transform: rotate(-20deg);
   }
-  a{color: white;}
-
-
-   .header2 {
-    display: flex;
-    justify-content: center;}
+  a {
+    color: white;
   }
+
+  .header2 {
+    display: flex;
+    justify-content: center;
+  }
+
+ 
+  
+}
