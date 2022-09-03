@@ -12,9 +12,10 @@
 
 ## git hub
 
-https://github.com/Jacobschoenbauer/02-css-portfolio
+    https://github.com/Jacobschoenbauer/02-css-portfolio
 
 ## URL
+   https://jacobschoenbauer.github.io/02-css-portfolio/ 
 
 ## Image
 
