@@ -1,9 +1,9 @@
 # 02-css-portfolio
 
-## A way to diplay my school work on line
+## A way to display my school work on line
 
 - Show casing newly learned flexbox
-- Project for u of m bootcamp
+- Project for U of m bootcamp
 - Uses HTML and CSS 
 
 ## Usage
