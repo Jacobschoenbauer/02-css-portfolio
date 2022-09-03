@@ -29,7 +29,12 @@ h1 {
   color: white;
   font-size: 50px;
 }
+.me{
+  font-size: 30px;
+  font-family:'Times New Roman', Times, serif;
+  color: brown;
 
+}
 .art {
   height: 200px;
   width: 200px;
@@ -81,12 +86,18 @@ article {
 .mess {
   display: flex;
   flex-direction: column;
+  font-family:'Times New Roman', Times, serif ;
+  font-size: 30px;
+  align-items: center;
+  justify-content: space-between;
+  color: brown;
 }
 .projects {
   display: flex;
   flex-wrap: wrap;
   padding: 10px;
   justify-content: space-evenly;
+  
 
 }
 
@@ -99,4 +110,11 @@ article.jobs .project {
   width: 100px;
   padding: 5px;
   background-color: aqua;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  color: rgb(79, 29, 170);
 }
