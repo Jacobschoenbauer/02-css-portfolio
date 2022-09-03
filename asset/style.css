@@ -120,3 +120,14 @@ footer{
   font-size: larger;
   color: rgb(79, 29, 170);
 }
+
+
+
+@media screen and (max-width: 768px){
+  .header1{background-color: rgb(94, 7, 89);}
+  h2{
+  
+    align-content: center;
+  }
+  a{color: white;}
+  }
