@@ -64,6 +64,7 @@ h2 {
 article {
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 .art:hover {
   width: 220px;
@@ -86,6 +87,7 @@ article {
   flex-wrap: wrap;
   padding: 10px;
   justify-content: space-evenly;
+
 }
 
 article.jobs .project {
