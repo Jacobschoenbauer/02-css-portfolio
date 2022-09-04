@@ -45,22 +45,26 @@ h1 {
   list-style-type: none;
   flex-wrap: wrap;
   gap: 5px;
+  
 }
 .content {
   display: flex;
   margin: 40px;
-  flex-direction: column;
+  
+  flex-direction:column;
 }
 
 li :hover {
-  display: flex;
+  
   color: aliceblue;
 }
 
 h2 {
+ 
   font-size: 50px;
   color: blueviolet;
   margin: 50px;
+  
 }
 article {
   display: flex;
@@ -136,4 +140,6 @@ footer {
 
  
   
-}
+ }
+  
+
