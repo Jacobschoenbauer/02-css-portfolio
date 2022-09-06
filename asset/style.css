@@ -38,7 +38,10 @@ h1 {
   width: 230px;
   box-shadow: 10px 10px 8px #888888;
 }
-
+.art1 {
+  height: 200;
+  width: 100%;
+}
 .titles {
   display: flex;
   font-size: 20px;
@@ -50,7 +53,6 @@ h1 {
 .content {
   display: flex;
   margin: 40px;
-  
   flex-direction:column;
 }
 /*a way to heighlight the nav bar to see what section you are going to click*/
@@ -75,6 +77,10 @@ article {
 .art:hover {
   width: 250px;
   height: 250px;
+}
+.art1:hover{
+  width: 110%;
+ 
 }
 
 .email {
@@ -142,6 +148,15 @@ footer {
   justify-content: center;
  }
   a{color: rgb(33, 122, 150);}
+ .art1{
+  height: 230px;
+  width: 230px;
  }
+ .art1:hover{
+  width: 250px;
+  height: 250px;
+}
+}
+
   
 
