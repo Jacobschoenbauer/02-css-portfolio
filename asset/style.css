@@ -75,8 +75,8 @@ article {
 }
 /*makes pictures bigger when hoverd over to show what you will click on*/
 .art:hover {
-  width: 250px;
-  height: 250px;
+  width: 210px;
+  height: 210px;
 }
 .art1:hover{
   width: 110%;
