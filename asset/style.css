@@ -54,7 +54,7 @@ h1 {
   flex-direction:column;
 }
 /*a way to heighlight the nav bar to see what section you are going to click*/
-li :hover {
+a:hover {
   
   color: aliceblue;
 }
@@ -130,10 +130,7 @@ footer {
     align-content: center;
     transform: rotate(-20deg);
   }
-  a {
-    color: rgb(89, 27, 204);
-  }
-
+  
   .header2 {
     display: flex;
     justify-content: center;
@@ -144,7 +141,7 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
  }
-  a{color: bisque;}
+  a{color: rgb(33, 122, 150);}
  }
   
 
