@@ -142,6 +142,7 @@ footer {
  article{
   display:flex;
   flex-wrap: wrap;
+  justify-content: center;
  }
   a{color: bisque;}
  }
