@@ -34,12 +34,12 @@ h1 {
   color: brown;
 }
 .art {
-  height: 230px;
-  width: 230px;
+  height: 300px;
+  width: 300px;
   box-shadow: 10px 10px 8px #888888;
 }
 .art1 {
-  height: 200;
+  height: 100%;
   width: 100%;
 }
 .titles {
@@ -75,8 +75,8 @@ article {
 }
 /*makes pictures bigger when hoverd over to show what you will click on*/
 .art:hover {
-  width: 210px;
-  height: 210px;
+  width: 280px;
+  height: 280px;
 }
 .art1:hover{
   width: 110%;
