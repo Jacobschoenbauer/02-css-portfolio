@@ -1,5 +1,5 @@
 body {
-  background-color: bisque;
+  background-color: rgb(235, 222, 206);
 }
 .moveit{
   display: flex;
@@ -17,11 +17,11 @@ body {
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  background-color: rgb(139, 139, 204);
+  background-color: rgb(234, 188, 133);
   margin: 0px;
 }
 .header2 {
-  background-color: blueviolet;
+  background-color: rgb(167, 158, 147);
   display: flex;
   height: 40px;
   color: white;
@@ -69,7 +69,7 @@ a:hover {
 
 h2 {
   font-size: 50px;
-  color: blueviolet;
+  color: rgb(110, 76, 42);
   margin: 50px;
   
 }
@@ -120,14 +120,14 @@ article.jobs .project {
   bottom: 5px;
   width: 100px;
   padding: 5px;
-  background-color: aqua;
+  background-color: rgb(35, 33, 30);
 }
 
 footer {
   display: flex;
   justify-content: center;
   font-size: larger;
-  color: rgb(79, 29, 170);
+  color: rgb(67, 59, 48);
 }
 /*media to change for differnt screens*/
 @media screen and (max-width: 900px) {
