@@ -1,6 +1,12 @@
 body {
   background-color: bisque;
 }
+.moveit{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  
+}
 .Jacob {
   border: 35px 35px 35px 35px;
   height: 200px;
